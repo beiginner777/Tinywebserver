@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/sever.dir/Logger.cc.o CMakeFiles/sever.dir/test.cc.o -o /home/jerry/GitSoftware/myself/tinywebserver/bin/sever 

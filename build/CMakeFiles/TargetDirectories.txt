@@ -1,0 +1,5 @@
+/home/jerry/GitSoftware/myself/tinywebserver/build/CMakeFiles/edit_cache.dir
+/home/jerry/GitSoftware/myself/tinywebserver/build/CMakeFiles/rebuild_cache.dir
+/home/jerry/GitSoftware/myself/tinywebserver/build/src/CMakeFiles/sever.dir
+/home/jerry/GitSoftware/myself/tinywebserver/build/src/CMakeFiles/edit_cache.dir
+/home/jerry/GitSoftware/myself/tinywebserver/build/src/CMakeFiles/rebuild_cache.dir
